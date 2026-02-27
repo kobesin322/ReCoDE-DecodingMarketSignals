@@ -1,4 +1,4 @@
-#!/Users/kobesin/Documents/GitHub/ReCoDE-DecodingMarketSignals/venv/bin/python3
+#!/Users/kobesin/Documents/GitHub/ReCoDE-DecodingMarketSignals/venv/bin/python3.11
 
 # Author:
 # Contact: grubert@users.sf.net
